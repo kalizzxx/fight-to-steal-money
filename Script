@@ -1,0 +1,221 @@
+--[[
+	Bryan's Hub - Fight To Steal Money
+	Obfuscated Script
+]]
+
+local _0x1a2b3c = {
+    "\108\111\97\100\115\116\114\105\110\103",
+    "\103\97\109\101",
+    "\72\116\116\112\71\101\116",
+    "\104\116\116\112\115\58\47\47\115\105\114\105\117\115\46\109\101\110\117\47\114\97\121\102\105\101\108\100",
+    "\67\114\101\97\116\101\87\105\110\100\111\119",
+    "\240\159\146\128\32\70\105\103\104\116\32\84\111\32\83\116\101\97\108\32\77\111\110\101\121\32\240\159\146\128",
+    "\66\114\121\97\110\39\115\32\72\117\98",
+    "\98\121\32\66\82\89\65\78\88\83\49",
+    "\82\97\121\102\105\101\108\100",
+    "\68\97\114\107\66\108\117\101",
+    "\75",
+    "\66\105\103\32\72\117\98",
+    "\110\111\105\110\118\105\116\101\108\105\110\107",
+    "\70\105\103\104\116\32\84\111\32\83\116\101\97\108\32\77\111\110\101\121\32\47\32\75\101\121",
+    "\75\101\121\32\83\121\115\116\101\109",
+    "\75\101\121",
+    "\104\116\116\112\115\58\47\47\112\97\115\116\101\98\105\110\46\99\111\109\47\114\97\119\47\81\70\90\70\48\98\88\77",
+    "\67\114\101\97\116\101\84\97\98",
+    "\240\159\143\161\32\72\111\109\101",
+    "\67\114\101\97\116\101\83\101\99\116\105\111\110",
+    "\87\101\108\99\111\109\101\32\116\111\32\66\114\121\97\110\39\115\32\72\117\98",
+    "\78\111\116\105\102\121",
+    "\69\120\101\99\117\116\101\100\32\67\111\114\114\101\99\116\108\121",
+    "\67\111\111\108\32\71\117\105\240\159\152\142",
+    "\79\107\97\121\33",
+    "\67\114\101\97\116\101\66\117\116\116\111\110",
+    "\73\110\102\105\110\105\116\101\32\74\117\109\112\115",
+    "\76\111\99\97\108\80\108\97\121\101\114",
+    "\85\115\101\114\73\110\112\117\116\83\101\114\118\105\99\101",
+    "\80\108\97\121\101\114\71\117\105",
+    "\73\110\102\74\117\109\112\58\32\79\70\70",
+    "\73\110\102\74\117\109\112\58\32",
+    "\79\78",
+    "\74\117\109\112\82\101\113\117\101\115\116",
+    "\72\117\109\97\110\111\105\100",
+    "\74\117\109\112\105\110\103",
+    "\67\114\101\97\116\101\83\108\105\100\101\114",
+    "\87\97\108\107\83\112\101\101\100\32\83\108\105\100\101\114",
+    "\83\112\101\101\100",
+    "\83\108\105\100\101\114\49",
+    "\67\104\97\114\97\99\116\101\114",
+    "\87\97\108\107\83\112\101\101\100",
+    "\240\159\146\184\32\77\111\110\101\121",
+    "\73\110\102\32\77\111\110\101\121\32\38\32\80\111\119\101\114",
+    "\82\101\112\108\105\99\97\116\101\100\83\116\111\114\97\103\101",
+    "\69\118\101\110\116",
+    "\84\114\97\105\110",
+    "\87\105\110\71\97\105\110",
+    "\240\159\151\186\239\184\143\32\84\101\108\101\112\111\114\116\115",
+    "\84\101\108\101\112\111\114\116\32\116\111\32\76\111\99\97\116\105\111\110\115",
+    "\84\101\108\101\112\111\114\116\101\100\33",
+    "\84\101\108\101\112\111\114\116\101\100\32\116\111\32",
+    "\67\114\101\97\116\101\68\114\111\112\100\111\119\110",
+    "\83\101\108\101\99\116\32\76\111\99\97\116\105\111\110",
+    "\73\115\108\97\32\49",
+    "\73\115\108\97\32\50",
+    "\73\115\108\97\32\51",
+    "\73\115\108\97\32\52",
+    "\83\112\97\119\110",
+    "\76\111\99\97\116\105\111\110\68\114\111\112\100\111\119\110"
+}
+
+local function _0x4d5e6f(_0x7g8h9i)
+    return loadstring(_0x7g8h9i)()
+end
+
+local function _0x9j0k1l(_0x2m3n4o, _0x5p6q7r)
+    return _0x2m3n4o[_0x5p6q7r]
+end
+
+local _0x8s9t0u = _0x4d5e6f(game:HttpGet(_0x1a2b3c[4]))
+
+local _0xvwxy12 = _0x8s9t0u:CreateWindow({
+    Name = _0x1a2b3c[6],
+    Icon = 0,
+    LoadingTitle = _0x1a2b3c[7],
+    LoadingSubtitle = _0x1a2b3c[8],
+    ShowText = _0x1a2b3c[9],
+    Theme = _0x1a2b3c[10],
+    ToggleUIKeybind = _0x1a2b3c[11],
+    DisableRayfieldPrompts = false,
+    DisableBuildWarnings = false,
+    ConfigurationSaving = {
+        Enabled = true,
+        FolderName = nil,
+        FileName = _0x1a2b3c[12]
+    },
+    Discord = {
+        Enabled = false,
+        Invite = _0x1a2b3c[13],
+        RememberJoins = true
+    },
+    KeySystem = false,
+    KeySettings = {
+        Title = _0x1a2b3c[14],
+        Subtitle = _0x1a2b3c[15],
+        Note = "No method of obtaining the key is provided",
+        FileName = _0x1a2b3c[16],
+        SaveKey = true,
+        GrabKeyFromSite = true,
+        Key = {_0x1a2b3c[17]}
+    }
+})
+
+local _0x3z4a5b = _0xvwxy12:CreateTab(_0x1a2b3c[18], nil)
+local _0x6c7d8e = _0x3z4a5b:CreateSection(_0x1a2b3c[21])
+
+_0x8s9t0u:Notify({
+    Title = _0x1a2b3c[23],
+    Content = _0x1a2b3c[24],
+    Duration = 5,
+    Image = nil,
+    Actions = {
+        Ignore = {
+            Name = _0x1a2b3c[25],
+            Callback = function()
+                print("The user tapped Okay!")
+            end
+        }
+    }
+})
+
+local _0x9f0g1h = _0x3z4a5b:CreateButton({
+    Name = _0x1a2b3c[27],
+    Callback = function()
+        local _0x2i3j4k = game.Players.LocalPlayer
+        local _0x5l6m7n = game:GetService("UserInputService")
+        local _0x8o9p0q = false
+        local _0x1r2s3t = Instance.new("ScreenGui", _0x2i3j4k.PlayerGui)
+        local _0x4u5v6w = Instance.new("TextButton", _0x1r2s3t)
+        _0x4u5v6w.Size = UDim2.fromScale(0.12, 0.06)
+        _0x4u5v6w.Position = UDim2.fromScale(0.05, 0.8)
+        _0x4u5v6w.BackgroundColor3 = Color3.fromRGB(200, 0, 0)
+        _0x4u5v6w.TextColor3 = Color3.new(1, 1, 1)
+        _0x4u5v6w.Text = _0x1a2b3c[31]
+        _0x4u5v6w.Active = true
+        _0x4u5v6w.Draggable = true
+        _0x4u5v6w.MouseButton1Click:Connect(function()
+            _0x8o9p0q = not _0x8o9p0q
+            _0x4u5v6w.Text = _0x1a2b3c[32] .. (_0x8o9p0q and _0x1a2b3c[33] or "OFF")
+        end)
+        _0x5l6m7n.JumpRequest:Connect(function()
+            if _0x8o9p0q then
+                _0x2i3j4k.Character:FindFirstChildOfClass(_0x1a2b3c[35]):ChangeState(_0x1a2b3c[36])
+            end
+        end)
+    end
+})
+
+local _0x7x8y9z = _0x3z4a5b:CreateSlider({
+    Name = _0x1a2b3c[38],
+    Range = {0, 300},
+    Increment = 1,
+    Suffix = _0x1a2b3c[39],
+    CurrentValue = 16,
+    Flag = _0x1a2b3c[40],
+    Callback = function(_0x0a1b2c)
+        game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = _0x0a1b2c
+    end
+})
+
+local _0x3d4e5f = _0xvwxy12:CreateTab(_0x1a2b3c[43], nil)
+
+local _0x6g7h8i = _0x3d4e5f:CreateButton({
+    Name = _0x1a2b3c[44],
+    Callback = function()
+        local _0x9j0k1l = {1e300000}
+        game:GetService(_0x1a2b3c[45]):WaitForChild(_0x1a2b3c[46]):WaitForChild(_0x1a2b3c[47]):FireServer(unpack(_0x9j0k1l))
+        task.wait()
+        local _0x2m3n4o = {1e30000}
+        game:GetService(_0x1a2b3c[45]):WaitForChild(_0x1a2b3c[46]):WaitForChild(_0x1a2b3c[48]):FireServer(unpack(_0x2m3n4o))
+    end
+})
+
+local _0x5p6q7r = _0xvwxy12:CreateTab(_0x1a2b3c[49], nil)
+local _0x8s9t0u = _0x5p6q7r:CreateSection(_0x1a2b3c[50])
+
+local function _0x1v2w3x(_0x4y5z6a, _0x7b8c9d)
+    local _0x0e1f2g = game.Players.LocalPlayer
+    local _0x3h4i5j = _0x0e1f2g.Character or _0x0e1f2g.CharacterAdded:Wait()
+    local _0x6k7l8m = _0x3h4i5j:WaitForChild("HumanoidRootPart")
+    if _0x6k7l8m then
+        _0x6k7l8m.CFrame = _0x7b8c9d
+        _0x8s9t0u:Notify({
+            Title = _0x1a2b3c[51],
+            Content = _0x1a2b3c[52] .. _0x4y5z6a,
+            Duration = 3,
+            Image = nil
+        })
+    end
+end
+
+local _0x9n0o1p = _0x5p6q7r:CreateDropdown({
+    Name = _0x1a2b3c[54],
+    Options = {
+        _0x1a2b3c[55],
+        _0x1a2b3c[56],
+        _0x1a2b3c[57],
+        _0x1a2b3c[58]
+    },
+    CurrentOption = {_0x1a2b3c[59]},
+    MultipleOptions = false,
+    Flag = _0x1a2b3c[60],
+    Callback = function(_0x2q3r4s)
+        local _0x5t6u7v = {
+            [_0x1a2b3c[59]] = CFrame.new(-23.2, 38.0, -123.8),
+            [_0x1a2b3c[56]] = CFrame.new(-80.4, 37.6, 1867.3),
+            [_0x1a2b3c[57]] = CFrame.new(-28.6, 38.0, 4600.1),
+            [_0x1a2b3c[58]] = CFrame.new(-56.3, 37.6, 7812.5)
+        }
+        if _0x5t6u7v[_0x2q3r4s[1]] then
+            _0x1v2w3x(_0x2q3r4s[1], _0x5t6u7v[_0x2q3r4s[1]])
+        end
+    end
+})
